@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+**/node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+venv/
+.env
+
+# OS files
+.DS_Store
+
+# Jupyter or Colab
+.ipynb_checkpoints/
+
+# Logs
+*.log
